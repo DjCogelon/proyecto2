@@ -1,4 +1,5 @@
-<php
-echo "Hola, soy Dino";
+<?php
+
+echo "Hola, soy Dino pito";
 
 ?>
